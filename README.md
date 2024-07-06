@@ -1,0 +1,3 @@
+# BharatOne Data Science Intern Assignment
+
+This repository showcases the comprehensive analysis of three datasets: Bank Statements, Office Supplies Data, and Churn Modelling Data for the BharatOne Data Science Intern assignment. For Bank Statements, the analysis includes transaction types, trends, spending patterns, income sources, and alert generation for suspicious activities. The Office Supplies Data analysis covers sales, customer behavior, time series trends, geographical performance, and profitability. For Churn Modelling Data, the focus is on customer demographics, churn patterns, product usage, financial analysis, and predictive modeling to identify at-risk customers. Each section includes detailed Google Colab with insights and visualizations. 
